@@ -1,0 +1,7 @@
+val1=input("enter integer value")
+val2=input("enter integer value")
+val3=input("enter float value")
+val1=float(val1)
+val2=float(val2)
+val3=float(val3)
+print("The Average of given three value are:",(val1+val2+val3)/3,"\n",type(val1),type(val2),type(val3))

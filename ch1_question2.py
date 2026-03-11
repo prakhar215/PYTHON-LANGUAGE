@@ -1,0 +1,6 @@
+val1=int(input("Enter Value 1:"))
+val2=int(input("Enter Value 2:"))
+print("The difference of given two value are",val1-val2)
+print("The sum of given two value are",(val1+val2))
+print("The product of given two value are",(val1*val2))
+print("The quotient of given two value are",val1/val2)

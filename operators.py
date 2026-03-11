@@ -10,6 +10,7 @@ print(a<b)
 print(a>=b)
 print(a==b)
 print(a!=b)
+print(a**3)# a power 3
 
 #and also 
 a=a+10 #also written as 
@@ -24,4 +25,4 @@ b=9
 varia=1
 print(not(varia))# always return opposite 
 print((a>b)and(a>b))# both must be true 
-print((a<b)or(a>b))#any one of the given value can return true
+print((a<b)or(a>b))#any one and both of the given value can return true
