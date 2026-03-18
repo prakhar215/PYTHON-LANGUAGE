@@ -1,0 +1,12 @@
+s={1,4.43,4,25,4,6,7}
+set2={100,101,102,4}
+sets=set()
+print(type(s))
+s.add(61)
+print(s)
+s.remove(4.43)
+print(s)
+s.pop()
+print(s)
+print(s.union(set2))
+print(s.intersection(set2))

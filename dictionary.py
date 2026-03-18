@@ -1,0 +1,16 @@
+name={
+    "prak":"good",
+    "prat":["average","good"],
+    "sgpa":[7.2,7.1,6.9],
+    "num":"45",
+}
+print(name["num"])
+print(name.keys())
+print(name.values())
+print(name.items())
+print(name.get("sgpas"))
+print(name["num"])
+name.update({
+    "city":"jabalpur"
+})
+print(name.items())
