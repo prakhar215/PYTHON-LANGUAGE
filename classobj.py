@@ -6,4 +6,4 @@ class student:
 stud1=student()
 stud2=student()
 stud3=student()
-print(stud1.sub,stud2.year,stud3.attendence)
+print(stud1.sub,stud2.year,stud3.attendence) 
