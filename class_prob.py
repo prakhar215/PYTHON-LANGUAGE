@@ -12,7 +12,7 @@ class Product:
     @staticmethod
     def cal_dicount(price,discount):
         print(f"The discounted price is {price -(price*discount)/100}")
-phone1=Product("apple",70000)
+phone1=Product("apple",82000)
 phone2=Product("samsung",52000)
 product3=Product("oppo",21000)
 phone1.get_info()
