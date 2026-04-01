@@ -1,3 +1,6 @@
 f=open("sample.txt","r+")
 f.write("neww")
 print(f.read())
+f=open("sample.txt","a+")
+f.write("neww")
+print(f.read())
