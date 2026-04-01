@@ -1,0 +1,6 @@
+rand=open("newfile.txt","x")
+rand.write("hello ,from prakhar")
+rand.close()
+rand=open("newfile.txt","r")
+print(rand.read())
+rand.close()
