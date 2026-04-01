@@ -1,9 +1,9 @@
 class Employee:
     def get_designation(self):
-        print("deignation = Employee")
+        print("deignation is Employee")
 class Teacher:
     def get_designation(self):
-        print("DEsignation is teacher")
+        print("Designation is teacher")
 t1=Teacher()
 t1.get_designation()
 t2=Employee()
