@@ -1,0 +1,11 @@
+print("My name is ",sep="-")
+print("Monty Python.",end="")
+print("prakhar")
+print("My", "name", "is", "Monty", "Python.", sep="-")
+print('Greg\'s book.')
+
+print('"Greg\'s book."')
+print("Greg\'s book.")
+print('"Greg\'s book."')
+print(0o123)
+print(4/2)
